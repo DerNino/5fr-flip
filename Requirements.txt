@@ -1,4 +1,4 @@
-Rquirements
+Requirements:
 altair 
 numpy 
 pandas 
